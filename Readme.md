@@ -8,3 +8,7 @@ I like Git very much !
 -git add/rm
 -git commit
 -git log
+
+## Publication du projet
+-git remote add origin https://github.com/Reinadagher/GitBasicsFormation.git  
+-git push -u origin main 
